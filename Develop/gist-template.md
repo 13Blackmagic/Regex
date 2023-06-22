@@ -4,7 +4,7 @@ HI!! my name is Anthony and I wanted to take a walk with you through Regex. Toda
 
 ## Summary
 
-RegEx also known as "regular expressions" is a set of characters that can create patterns that can be uses to
+RegEx also known as "regular expressions" is a set of characters that can create patterns that can be uses to find something in a database for instance * in sql. Another way that I have heard it is " It is engin logic". 
 
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
@@ -39,4 +39,5 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Anthony LaNier I am a junior programmer, Husband, Father of three and I love programming as much as I love chess.
+my GitHub is https://github.com/13Blackmagic
