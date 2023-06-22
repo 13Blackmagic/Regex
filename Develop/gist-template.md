@@ -22,8 +22,10 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ## Regex Components
 
 ### Anchors
+-The anchors is what starts and ends the regular expression and its / at the beggining and / at the end.
 
 ### Quantifiers
+-A quantifier is used to see how many times a spacific character or group needs to be there in order to have a match.
 
 ### Grouping Constructs
 
